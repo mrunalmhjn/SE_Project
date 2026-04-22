@@ -1,0 +1,15 @@
+streamlit
+opencv-python
+numpy
+torch
+torchvision
+scikit-image
+matplotlib
+seaborn
+pandas
+tabulate
+moviepy
+openai-whisper
+vaderSentiment
+textblob
+Pillow
